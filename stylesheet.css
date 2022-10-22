@@ -1,0 +1,68 @@
+html {
+    font-family: Ubuntu, sans-serif;
+    text-align: left;
+    margin-left: 4em;
+    max-width: 34em;
+    font-size: 94%;
+    line-height: 1.6em;
+    color: #000000;
+    background-color: #b1b1b1;
+}
+
+.page-title {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.text {
+    padding: .1em .4em;
+}
+
+.subsec {
+    padding-top: .2em;
+    padding-bottom: .2em;
+    font-style: italic;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+a:link {
+    color: #000000;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #000000;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #000000;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #000000;
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 1.1em;
+}
+
+hr {
+    margin-top: 1em;
+    height: .2em;
+    border: none;
+    background: #600;
+    width: 100%;
+}
+
+footer {
+    padding: .2em .4em;
+    text-align: right;
+    margin: auto;
+    line-height: .8em;
+}
